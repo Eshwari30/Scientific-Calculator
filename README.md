@@ -1,5 +1,8 @@
 # Scientific-Calculator
+## Overview
 The scientific calculator project using Python is a graphical user interface (GUI) application developed with PyQt5, a Python library for creating desktop applications. The calculator integrates with Python's math library for advanced mathematical computations which include the use of exponents, square root, logarithmic functions, trigonometric functions, and fundamental arithmetic operations.
+
+## Features
 The key components and features of the scientific calculator project are briefly described as follows:
 1. Designing a GUI with PyQt5:
 
@@ -23,6 +26,13 @@ The key components and features of the scientific calculator project are briefly
 5. Integration with math module:
 
 	To analyze mathematical expressions that require trigonometric functions, logarithms, square roots, and other complex operations, use Python's math module.
+
+## Technologies Used
+Python
+
+PyQT5(GUI)
+
+Mathematics
 
 This scientific calculator project is suitable for both simple and complex calculations because it offers a wide range of functionality. It's a helpful tool for users in science, engineering, mathematics, and other professions because of its sophisticated mathematical capabilities combined with a well-designed graphical user interface.
 
